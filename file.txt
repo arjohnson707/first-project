@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 alert("Git it.")
 
 function gitIt() {
     console.log("Git it.");
+=======
+alert("Git it.")
+
+function gitIt() {
+    console.log("Git it.");
+>>>>>>> 4090742290ecd12ae3b0ba8185d7f9cf9f41cc2e
 }
